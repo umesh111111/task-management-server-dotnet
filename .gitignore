@@ -1,0 +1,152 @@
+# Visual Studio Code
+.vscode/
+# Visual Studio .vs directory
+.vs/
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.paket.sha
+*.paket.lock
+
+# Node.js dependencies
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# ReSharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.hdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.pdb
+*.dll
+*.exe
+
+# Rider files
+.idea/
+
+# Resharper files
+_ReSharper*/
+
+# NCrunch files
+*.ncrunch*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject file
+[Oo]bj/DocProject.*
+
+# Compiled Object files
+*.sbr
+*.tlb
+*.tlh
+*.tmp
+*.log
+*.zip
+*.csv
+
+# Symbol files
+*.vcproj.*
+*.vcxproj.*
+*.pdb
+*.idb
+*.pdb
+*.ipch
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+
+# Cache files
+[Dd]esktop.ini
+*.vspscc
+*.vssscc
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Performance profiling
+*.vsp
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+paket-files-cache/
+
+# FAKE - F# Make
+.fake/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# TeamCity
+.vscode/
+
+# DotCover
+*.dotCov
